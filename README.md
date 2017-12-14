@@ -1,9 +1,9 @@
 # OsintDemo
-Basic Info
-https://who.is/
+##Basic Info
+* https://who.is/
 
 Bing reverse ip
-ip:176.65.66.66 D
+* ip:176.65.66.66 D
 
 yahoo advanced search
 http://search.yahoo.com/search/options?fr=%20fp-top&p= D
